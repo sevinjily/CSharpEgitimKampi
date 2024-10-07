@@ -5,7 +5,6 @@ C:\Users\Asus\source\repos\ECommerceArchAPI\Business\obj\Debug\net8.0\Business.G
 C:\Users\Asus\source\repos\ECommerceArchAPI\Business\obj\Debug\net8.0\Business.AssemblyInfoInputs.cache
 C:\Users\Asus\source\repos\ECommerceArchAPI\Business\obj\Debug\net8.0\Business.AssemblyInfo.cs
 C:\Users\Asus\source\repos\ECommerceArchAPI\Business\obj\Debug\net8.0\Business.csproj.CoreCompileInputs.cache
-C:\Users\Asus\source\repos\ECommerceArchAPI\Business\obj\Debug\net8.0\Business.sourcelink.json
 C:\Users\Asus\source\repos\ECommerceArchAPI\Business\obj\Debug\net8.0\Business.dll
 C:\Users\Asus\source\repos\ECommerceArchAPI\Business\obj\Debug\net8.0\refint\Business.dll
 C:\Users\Asus\source\repos\ECommerceArchAPI\Business\obj\Debug\net8.0\Business.pdb

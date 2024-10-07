@@ -18,6 +18,9 @@ namespace Business.DependencyResolver
             services.AddScoped<AppDbContext>();
             services.AddScoped<ICategoryService,CategoryManager>();
             services.AddScoped<ICategoryDAL, EFCategoryDAL>();
+
+            services.AddScoped<ISubCategoryService,SubCategoryManager>();
+            services.AddScoped<ISubCategoryDAL, EFSubCategoryDAL>();
         }
     }
 }

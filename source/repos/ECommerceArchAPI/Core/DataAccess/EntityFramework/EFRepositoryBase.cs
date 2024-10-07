@@ -3,6 +3,7 @@ using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -27,6 +28,12 @@ namespace Core.DataAccess.EntityFramework
             var deleteEntity=context.Entry(entity);
             deleteEntity.State = EntityState.Deleted;
             context.SaveChanges();
+        }
+
+        public TEntity Get(Expression<Func<TEntity, bool>> predicate)
+        {
+            using var context= new TContext();
+            return context.Set<TEntity>().FirstOrDefault(predicate);
         }
 
         public void Update(TEntity entity)

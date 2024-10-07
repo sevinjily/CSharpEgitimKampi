@@ -16,7 +16,6 @@ C:\Users\Asus\source\repos\ECommerceArchAPI\WebAPI\obj\Debug\net8.0\WebAPI.Assem
 C:\Users\Asus\source\repos\ECommerceArchAPI\WebAPI\obj\Debug\net8.0\WebAPI.csproj.CoreCompileInputs.cache
 C:\Users\Asus\source\repos\ECommerceArchAPI\WebAPI\obj\Debug\net8.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Asus\source\repos\ECommerceArchAPI\WebAPI\obj\Debug\net8.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Asus\source\repos\ECommerceArchAPI\WebAPI\obj\Debug\net8.0\WebAPI.sourcelink.json
 C:\Users\Asus\source\repos\ECommerceArchAPI\WebAPI\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\Asus\source\repos\ECommerceArchAPI\WebAPI\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\Asus\source\repos\ECommerceArchAPI\WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
@@ -144,3 +143,10 @@ C:\Users\Asus\source\repos\ECommerceArchAPI\WebAPI\bin\Debug\net8.0\Business.pdb
 C:\Users\Asus\source\repos\ECommerceArchAPI\WebAPI\bin\Debug\net8.0\Core.pdb
 C:\Users\Asus\source\repos\ECommerceArchAPI\WebAPI\bin\Debug\net8.0\DataAccess.pdb
 C:\Users\Asus\source\repos\ECommerceArchAPI\WebAPI\bin\Debug\net8.0\Entities.pdb
+C:\Users\Asus\source\repos\ECommerceArchAPI\WebAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Asus\source\repos\ECommerceArchAPI\WebAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Asus\source\repos\ECommerceArchAPI\WebAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Asus\source\repos\ECommerceArchAPI\WebAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Asus\source\repos\ECommerceArchAPI\WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Asus\source\repos\ECommerceArchAPI\WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Asus\source\repos\ECommerceArchAPI\WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
